@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/davidfranco259514/MiPrimerPipeline/_apis/build/status%2FDavdfranco.pipelines-java-reto?branchName=main)](https://dev.azure.com/davidfranco259514/MiPrimerPipeline/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
